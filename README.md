@@ -1,5 +1,5 @@
 
-#Hair-On: Virtual Hairstyle Try-On App
+💇‍♀️Hair-On: Virtual Hairstyle Try-On App
 
 Experiment with Your Dream Hairstyle!
 
@@ -16,3 +16,6 @@ Just for fun, I built a simple web app that lets you upload a photo and try on d
 
 💡Tech Stack
 - Frontend: HTML, CSS, JavaScript
+
+
+Try it out and have fun experimenting with your hairstyle!
